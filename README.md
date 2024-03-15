@@ -1,2 +1,2 @@
 # template
-- Write down a brief introduction about your mint project.
+- Write down a brief introduction to your mint project.
