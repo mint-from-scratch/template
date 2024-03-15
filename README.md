@@ -1,2 +1,2 @@
 # template
-A template repository.
+- Write down a brief introduction about your mint project.
